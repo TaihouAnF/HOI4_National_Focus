@@ -25,7 +25,7 @@ focus_tree = {
 		icon = GFX_goal_generic_construction
 		x = 6
 		y = 0
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		}
@@ -50,7 +50,7 @@ focus_tree = {
 		x = -5
 		y = 1
 		relative_position_id = GER_four_year_plan
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 8
 		}
@@ -163,7 +163,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = GER_west_wall
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -1151,7 +1151,7 @@ focus_tree = {
 		x = 4
 		y = 1
 		relative_position_id = GER_four_year_plan
-		cost = 10
+		cost = 1
 		
 		ai_will_do = {
 			factor = 9
@@ -1180,7 +1180,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = GER_autarky
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 9
 		}
@@ -1263,7 +1263,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_hermann_goring_werke
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 5
 		}
@@ -1341,7 +1341,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_autarky
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 4
 		}
@@ -1380,7 +1380,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_coal_liquidization
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 4
 		}
@@ -1403,7 +1403,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = GER_kdf_wagen
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -1422,7 +1422,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = GER_autarky
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 12
 		}
@@ -1492,7 +1492,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_autobahn
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -1579,7 +1579,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_four_year_plan
-		cost = 10
+		cost = 1
 		
 		ai_will_do = {
 			factor = 1
@@ -1597,7 +1597,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_grosraumwirtschaft
-		cost = 10
+		cost = 1
 		
 		ai_will_do = {
 			factor = 1
@@ -1661,7 +1661,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = GER_grosraumwirtschaft
-		cost = 10
+		cost = 1
 		
 		ai_will_do = {
 			factor = 1
@@ -1727,7 +1727,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_align_hungary
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -2037,7 +2037,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_integrate_war_economies
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 1
 		}
@@ -2059,7 +2059,7 @@ focus_tree = {
 		icon = GFX_goal_generic_build_airforce
 		x = 16
 		y = 0
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -2292,7 +2292,7 @@ focus_tree = {
 		icon = GFX_goal_generic_axis_build_infantry
 		x = 19
 		y = 0
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -2347,7 +2347,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_army_innovation
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 		}
@@ -2440,7 +2440,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_strategic_air_effort
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 1
 		}
@@ -2477,7 +2477,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_soviet_treaty
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 1
 		}
@@ -2706,7 +2706,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_soviet_ally
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}	
@@ -2721,7 +2721,7 @@ focus_tree = {
 		mutually_exclusive = { focus = GER_oppose_hitler }
 		x = 25
 		y = 0
-		cost = 10
+		cost = 1
 
 		allow_branch = {
 			if = {
@@ -2955,7 +2955,7 @@ focus_tree = {
 		x = -3
 		y = 2
 		relative_position_id = GER_rhineland
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			NOT = { has_government = communism }
@@ -3018,7 +3018,7 @@ focus_tree = {
 		x = 0
 		y = 3
 		relative_position_id = GER_anti_comitern_pact
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 2.5
 			modifier ={
@@ -3072,7 +3072,7 @@ focus_tree = {
 		x = 1
 		y = 4
 		relative_position_id = GER_anti_comitern_pact
-		cost = 10
+		cost = 5
 		historical_ai = {
 
 			any_home_area_neighbor_country = {
@@ -3184,7 +3184,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_ussr_war_goal
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 1
 		}	
@@ -3281,7 +3281,7 @@ focus_tree = {
 		x = 3
 		y = 2
 		relative_position_id = GER_rhineland
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 			modifier = {
@@ -3486,7 +3486,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_anschluss
-		cost = 10
+		cost = 2
 		bypass = {
 			188 = { is_owned_by = GER }
 			85 = { is_owned_by = GER }
@@ -3582,7 +3582,7 @@ focus_tree = {
 		x = 0
 		y = 3
 		relative_position_id = GER_demand_memel
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10	
 			modifier = {
@@ -3844,7 +3844,7 @@ focus_tree = {
 		x = -1
 		y = 2
 		relative_position_id = GER_danzig_or_war
-		cost = 4
+		cost = 2
 		ai_will_do = {
 			factor = 10			
 			modifier = {
@@ -4059,7 +4059,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = GER_anschluss
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}	
@@ -4231,7 +4231,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_demand_sudetenland
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}	
@@ -4277,7 +4277,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_first_vienna_award
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 		}
@@ -4354,7 +4354,7 @@ focus_tree = {
 		x = 0
 		y = 3
 		relative_position_id = GER_czech_friend
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -4455,7 +4455,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_second_vienna_award
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -4730,7 +4730,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_war_with_france
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 			modifier = {
@@ -4783,7 +4783,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = GER_war_with_france
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 10
 		}
@@ -4852,7 +4852,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 5
+		cost = 1
 		ai_will_do = {
 			factor = 1
 		}
@@ -4941,7 +4941,7 @@ focus_tree = {
 		x = 0
 		y = 3
 		relative_position_id = GER_naval_rearmament
-		cost = 5
+		cost = 2
 		ai_will_do = {
 			factor = 1
 		}
@@ -5016,7 +5016,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_naval_effort
-		cost = 10
+		cost = 3
 		ai_will_do = {
 			factor = 1
 		}
@@ -5173,7 +5173,7 @@ focus_tree = {
 		x = 1
 		y = 3
 		relative_position_id = GER_naval_effort
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -5587,7 +5587,7 @@ focus_tree = {
 		x = 5
 		y = 1
 		relative_position_id = GER_anschluss
-		cost = 10
+		cost = 1
 		ai_will_do = {
 			factor = 10
 		}	
@@ -5636,7 +5636,7 @@ focus_tree = {
 		x = 3
 		y = 1
 		relative_position_id = GER_anschluss
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	
@@ -5776,7 +5776,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_demand_slovenia
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -5961,7 +5961,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_first_ljubljana_award
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 		}
@@ -5990,7 +5990,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_fate_of_yugoslavia
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 		}
@@ -6135,7 +6135,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = GER_fate_of_yugoslavia
-		cost = 10
+		cost = 2
 		ai_will_do = {
 			factor = 10
 		}	
@@ -6162,7 +6162,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_second_ljubljana_award
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}	
